@@ -36,7 +36,7 @@
 
     <string name="notification_icon">自定义通知图标</string>
     <string name="tint_notification_icon">通知栏图标着色</string>
-    <string name="tint_notification_icon_summary">在某些设备上可能无效</string>
+    <string name="tint_notification_icon_summary">在某些系统上可能无效</string>
     <string name="importing">正在导入…</string>
     <string name="import_complete">导入完成</string>
     <string name="import_dialog_title">输入图标库地址</string>

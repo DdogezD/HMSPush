@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">HMSPush</string>
-    <string name="xposedDescription">Enable HMSCore System Push Channel, spoofs Huawei device</string>
+    <string name="xposedDescription">Enable HMSCore System Push Channel, Spoof Huawei Device</string>
     <string name="hms_core_not_found">HMS Core is not installed or has no permission to access</string>
     <string name="hms_not_activated">HMSPush module not activated or HMS Core needs a reboot</string>
     <string name="module_not_activated">Module not activated or Application needs a reboot</string>
@@ -26,7 +26,7 @@
 
     <string name="unregistered">Unregistered</string>
     <string name="registered">Registered</string>
-    <string name="latest_push">Latest Push: %s</string>
+    <string name="latest_push">Recently push: %s</string>
 
     <string name="dialog_confirm_unregister">Unregister?</string>
     <string name="dialog_confirm">Confirm</string>
@@ -37,7 +37,7 @@
 
     <string name="notification_icon">Custom Notification Icon</string>
     <string name="tint_notification_icon">Tint Icon Color On Notification Panel</string>
-    <string name="tint_notification_icon_summary">May not work on some device</string>
+    <string name="tint_notification_icon_summary">May not works on some custom ROM</string>
     <string name="importing">Importing…</string>
     <string name="import_complete">Import Complete</string>
     <string name="import_dialog_title">Input Icon Library Url</string>
@@ -60,6 +60,6 @@
     <string name="clear_hms_notification_channels">Clear notification categories</string>
     <string name="clear_hms_notification_channels_done">Notification categories cleared, please check the result on the Notification categories page</string>
     <string name="hide_app_icon">Hide App Icon</string>
-    <string name="fake_device">Spoof Device</string>
+    <string name="fake_device">Device Spoofer</string>
 
 </resources>

@@ -26,7 +26,7 @@
 
     <string name="unregistered">Unregistered</string>
     <string name="registered">Registered</string>
-    <string name="latest_push">Recently push: %s</string>
+    <string name="latest_push">Recently pushed: %s</string>
 
     <string name="dialog_confirm_unregister">Unregister?</string>
     <string name="dialog_confirm">Confirm</string>

@@ -70,8 +70,6 @@ fun FakeDeviceScreen(viewModel: FakeDeviceViewModel = viewModel()) {
                 title = {
                     Row(verticalAlignment = Alignment.CenterVertically) {
                         Text(text = stringResource(id = R.string.fake_device))
-                        Spacer(modifier = Modifier.width(4.dp))
-                        Tips()
                     }
                 },
                 actions = {
